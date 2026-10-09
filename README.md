@@ -46,13 +46,13 @@ Team2-Data-Miners/
 
 | Category        | Tools                                                |
 | --------------- | ---------------------------------------------------- |
-| Languages       | Python                                               |
+| Languages       | Python, SQL, DAX                                     |
 | Libraries       | Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn |
-| Environment     | Jupyter Notebook                                     |
+| Environment     | Jupyter Notebook, SQL Server, Power BI               |
 | Version Control | Git & GitHub                                         |
 
 ---
 
 <div align="center">
-Made with ❤️ by Team2: Data Miners
+## Made with ❤️ by Team2: Data Miners
 </div>
