@@ -76,12 +76,13 @@ final-project/
 
 ## 👥 Team Members
 
-| Name | Role |
-|Ahmed Fhakher|------|
-|Amira Adel|------|
-|Esraa Badr|------|
-|Ali Abdelsalam|------|
-|Mariam Skoot|------|
+| Name              | Role |
+|-------------------|------|
+| **Ahmed Faker**   | -    |
+| **Amira Adel**    | -    |
+| **Mariam Skoot**  | -    |
+| **Esraa Badr**    | -    |
+| **Ali Abdelsalam**| -    |
 
 ---
 <div align="center">
