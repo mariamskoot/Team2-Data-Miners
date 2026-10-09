@@ -32,7 +32,8 @@ Team2-Data-Miners/
 ├── 📂 mini-project/          → Mini Project files & documentation
 ├── 📂 final-project/         → Final Project files & documentation
 └── 📄 README.md              → This file
-
+```
+---
 
 🎯 Projects Overview
 
