@@ -41,7 +41,7 @@ The goal is to transform raw e-commerce data into actionable intelligence that s
 
 ```text
 final-project/
-├── data/                   # Raw & processed datasets
+├── AdventureWorks_Cleaned/                   # Cleaned & processed datasets
 ├── etl/                    # Python ETL scripts
 ├── sql/                    # Star Schema scripts & queries
 ├── powerbi/                # Power BI report files (.pbix)
@@ -55,23 +55,22 @@ final-project/
 
 ## 🛠️ Tech Stack
 
-- **Language:** Python
-- **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow/PyTorch (حسب المشروع)
-- **Visualization:** Matplotlib, Seaborn, Plotly
+- **Language:** Python, SQL, DAX
+- **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow/PyTorch
+- **Visualization:** PowerBI
 
 ---
 
 ## 📊 Dataset
 
-| Feature | Description |
-|---------|-------------|
-| ...     | ...         |
-
+| Type              | Description                     | Link |
+|-------------------|----------------------------------|------|
+| **AdventureWorks Raw Dataset**  | SQL Server Backup (`.bak`)      | [Download]([https://drive.google.com/your-link](https://drive.google.com/file/d/1DFI2yL-FK0fs7zaeuRkjFMkr0Tov1iHU/view?usp=sharing)) |
 ---
 
 ## 📈 Results
 
-(هتحط النتائج النهائية هنا)
+(images)
 
 ---
 
