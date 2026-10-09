@@ -36,7 +36,7 @@ The goal is to transform raw sales data into clear, actionable insights through 
 mini-project/
 ├── Raw_Sales_Data/                 # Raw & cleaned datasets
 ├── mini project/                 # Power BI report file (.pbix)
-├── Final Dashboard/          # Dashboard screenshots
+├── Final-Dashboard/          # Dashboard screenshots
 └── README.md             # This file
 ```
 ---
