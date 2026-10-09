@@ -65,7 +65,7 @@ final-project/
 
 | Type              | Description                     | Link |
 |-------------------|----------------------------------|------|
-| **AdventureWorks Raw Dataset**  | SQL Server Backup (`.bak`)      | [Download]([https://drive.google.com/your-link](https://drive.google.com/file/d/1DFI2yL-FK0fs7zaeuRkjFMkr0Tov1iHU/view?usp=sharing)) |
+| **AdventureWorks Raw Dataset** | SQL Server Backup (`.bak`) | [Download](https://drive.google.com/file/d/1DFI2yL-FK0fs7zaeuRkjFMkr0Tov1iHU/view?usp=sharing) |
 ---
 
 ## 📈 Results
@@ -77,8 +77,11 @@ final-project/
 ## 👥 Team Members
 
 | Name | Role |
-|------|------|
-| ...  | ...  |
+|Ahmed Fhakher|------|
+|Amira Adel|------|
+|Esraa Badr|------|
+|Ali Abdelsalam|------|
+|Mariam Skoot|------|
 
 ---
 <div align="center">
