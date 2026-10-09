@@ -56,6 +56,6 @@ Team2-Data-Miners/
 ---
 <div align="center">
 
-## Made with ❤️ by Team2: Data Miners
+Made with ❤️ by Team2: Data Miners
 
 </div>
