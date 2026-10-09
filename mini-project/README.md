@@ -50,7 +50,7 @@ mini-project/
 
 ## 📈 Results & Insights
 
-![Sales Overview Dashboard](mini-project/Final Dashboard.png)
+![Sales Overview Dashboard](mini-project/Final-Dashboard.png)
 ---
 
 ## 👥 Contributors
@@ -63,5 +63,7 @@ mini-project/
 
 ---
 <div align="center">
+
 **Team2: Data Miners** • Mini Project
+
 </div>
