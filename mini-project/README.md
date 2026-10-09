@@ -22,11 +22,11 @@ The goal is to transform raw sales data into clear, actionable insights through 
 
 ## 🎯 Objectives
 
-- [ ] Import and clean sales data
-- [ ] Create key measures and calculated columns (Total Sales, Profit, Quantity, etc.)
-- [ ] Design an interactive Sales Overview dashboard
-- [ ] Add filters, slicers, and drill-through capabilities
-- [ ] Extract meaningful business insights from the data
+- [x] Import and clean sales data
+- [x] Create key measures and calculated columns (Total Sales, Profit, Quantity, etc.)
+- [x] Design an interactive Sales Overview dashboard
+- [x] Add filters, slicers, and drill-through capabilities
+- [x] Extract meaningful business insights from the data
 
 ---
 
