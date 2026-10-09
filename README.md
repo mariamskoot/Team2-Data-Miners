@@ -35,14 +35,16 @@ Team2-Data-Miners/
 ```
 ---
 
-🎯 Projects Overview
+## 🎯 Projects Overview
 
 | Project       | Description                              | Status         |
 | ------------- | ---------------------------------------- | -------------- |
 | Mini Project  | [Brief description of the Mini Project]  | 🟢 Completed |
 | Final Project | [Brief description of the Final Project] | 🟡 In Progress  |
 
-🛠️ Tech Stack
+---
+
+## 🛠️ Tech Stack
 
 | Category        | Tools                                                |
 | --------------- | ---------------------------------------------------- |
@@ -52,7 +54,8 @@ Team2-Data-Miners/
 | Version Control | Git & GitHub                                         |
 
 ---
-
 <div align="center">
+
 ## Made with ❤️ by Team2: Data Miners
+
 </div>
