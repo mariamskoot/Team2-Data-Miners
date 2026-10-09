@@ -1,0 +1,69 @@
+<div align="center">
+
+# 📊 Mini Project  
+### First Power BI Report: Sales Overview
+
+![Project](https://img.shields.io/badge/Project-Mini-FF6D00?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-In%20Progress-FFC107?style=for-the-badge)
+![Tool](https://img.shields.io/badge/Tool-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**Interactive Sales Dashboard built with Power BI**
+
+</div>
+
+---
+
+## 📝 Description
+
+This mini project focuses on creating an interactive **Sales Overview** report using **Power BI**.  
+The goal is to transform raw sales data into clear, actionable insights through professional visualizations and dashboards that help decision-makers understand performance at a glance.
+
+---
+
+## 🎯 Objectives
+
+- [ ] Import and clean sales data
+- [ ] Create key measures and calculated columns (Total Sales, Profit, Quantity, etc.)
+- [ ] Design an interactive Sales Overview dashboard
+- [ ] Add filters, slicers, and drill-through capabilities
+- [ ] Extract meaningful business insights from the data
+
+---
+
+## 📂 Project Structure
+
+```text
+mini-project/
+├── data/                 # Raw & cleaned datasets
+├── pbix/                 # Power BI report file (.pbix)
+├── screenshots/          # Dashboard screenshots
+├── docs/                 # Documentation & insights
+└── README.md             # This file
+ذذذ
+```
+---
+
+## 🛠️ Tools & Libraries
+
+- Power BI
+- Power Query
+- DAX
+---
+
+## 📈 Results & Insights
+
+![Sales Overview Dashboard](./screenshots/sales-dashboard.png)
+---
+
+## 👥 Contributors
+
+- Ahmed Fakher
+- Amira Adel
+- Esraa Badr
+- Mariam Skoot
+- Ali Abdelsalam
+
+---
+<div align="center">
+**Team2: Data Miners** • Mini Project
+</div>
