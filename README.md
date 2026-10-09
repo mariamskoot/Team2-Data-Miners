@@ -32,3 +32,26 @@ Team2-Data-Miners/
 ├── 📂 mini-project/          → Mini Project files & documentation
 ├── 📂 final-project/         → Final Project files & documentation
 └── 📄 README.md              → This file
+
+
+🎯 Projects Overview
+
+| Project       | Description                              | Status         |
+| ------------- | ---------------------------------------- | -------------- |
+| Mini Project  | [Brief description of the Mini Project]  | 🟢 Completed |
+| Final Project | [Brief description of the Final Project] | 🟡 In Progress  |
+
+🛠️ Tech Stack
+
+| Category        | Tools                                                |
+| --------------- | ---------------------------------------------------- |
+| Languages       | Python                                               |
+| Libraries       | Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn |
+| Environment     | Jupyter Notebook                                     |
+| Version Control | Git & GitHub                                         |
+
+---
+
+<div align="center">
+Made with ❤️ by Team2: Data Miners
+</div>
