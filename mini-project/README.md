@@ -37,9 +37,7 @@ mini-project/
 ├── data/                 # Raw & cleaned datasets
 ├── pbix/                 # Power BI report file (.pbix)
 ├── screenshots/          # Dashboard screenshots
-├── docs/                 # Documentation & insights
 └── README.md             # This file
-ذذذ
 ```
 ---
 
