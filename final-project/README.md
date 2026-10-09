@@ -4,7 +4,7 @@
 ### E-Commerce Data Analytics & AI-Powered Business Intelligence Solution
 
 ![Project](https://img.shields.io/badge/Project-Final-1565C0?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Not%20Started-9E9E9E?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-In%20Progress-FFC107?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-E--Commerce%20Analytics-7B1FA2?style=for-the-badge)
 
 **End-to-End Data Pipeline + AI-Powered Business Intelligence**
