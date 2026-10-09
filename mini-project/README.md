@@ -4,7 +4,7 @@
 ### First Power BI Report: Sales Overview
 
 ![Project](https://img.shields.io/badge/Project-Mini-FF6D00?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-In%20Progress-FFC107?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-00C853?style=for-the-badge)
 ![Tool](https://img.shields.io/badge/Tool-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 **Interactive Sales Dashboard built with Power BI**
