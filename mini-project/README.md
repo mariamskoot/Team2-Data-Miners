@@ -50,7 +50,7 @@ mini-project/
 
 ## 📈 Results & Insights
 
-![Sales Overview Dashboard](mini-project/Final%20Dashboard.jpg)
+![Sales Overview Dashboard](./Final%20Dashboard.jpg)
 ---
 
 ## 👥 Contributors
