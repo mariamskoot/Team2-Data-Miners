@@ -51,6 +51,10 @@ mini-project/
 ## 📈 Results & Insights
 
 ![Sales Dashboard](Page1.jpg)
+![Sales Dashboard](Page2.jpg)
+![Sales Dashboard](Page3.jpg)
+![Sales Dashboard](Page4.jpg)
+![Sales Dashboard](Page5.jpg)
 
 ---
 
