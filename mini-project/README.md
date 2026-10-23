@@ -50,11 +50,30 @@ mini-project/
 
 ## 📈 Results & Insights
 
-![Sales Dashboard](Page1.jpg)
-![Sales Dashboard](Page2.jpg)
-![Sales Dashboard](Page3.jpg)
-![Sales Dashboard](Page4.jpg)
-![Sales Dashboard](Page5.jpg)
+
+<p align="center">
+  <img src="Page1.jpg" alt="Sales Dashboard Main Page" width="100%">
+</p>
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="Page2.jpg" alt="Dashboard Page 2" width="100%">
+    </td>
+    <td width="50%">
+      <img src="Page3.jpg" alt="Dashboard Page 3" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="Page4.jpg" alt="Dashboard Page 4" width="100%">
+    </td>
+    <td width="50%">
+      <img src="Page5.jpg" alt="Dashboard Page 5" width="100%">
+    </td>
+  </tr>
+</table>
+
 
 ---
 
