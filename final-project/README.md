@@ -31,8 +31,8 @@ The goal is to transform raw e-commerce data into actionable intelligence that s
 
 - [x] Design and implement an ETL pipeline using Python
 - [x] Build a Star Schema data model in SQL
-- [ ] Create comprehensive Power BI dashboards for e-commerce KPIs
-- [ ] Develop an AI Agent that generates business insights and recommendations
+- [x] Create comprehensive Power BI dashboards for e-commerce KPIs
+- [x] Develop an AI Agent that generates business insights and recommendations
 - [ ] Deliver a complete, production-ready analytics solution
 
 ---
